@@ -1,0 +1,11 @@
+Atelier Git
+Accueil : 09:00
+Fin : 12:00
+
+
+il n'y avait pas de css car il y avait un s a style en l'enlevant dans le chment href il appairait .
+avant
+<link rel="stylesheet" href="styles.css">
+aprés
+<link rel="stylesheet" href="style.css">
+
