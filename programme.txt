@@ -1,7 +1,7 @@
 Atelier Git
 Accueil : 09:00
 Fin : 12:00
-
+pause : 10h30
 
 il n'y avait pas de css car il y avait un s a style en l'enlevant dans le chment href il appairait .
 avant
@@ -9,3 +9,4 @@ avant
 aprés
 <link rel="stylesheet" href="style.css">
 
+en faisaint reset ca enlever le comite et le add or --soft ne fait que  enlever le comit et quand on refait directement un commit comme il n'y a pas de add cela fat une erreure 
